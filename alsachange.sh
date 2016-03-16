@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 # Swap between Alsa / Jack configs and restart Alsa
 # I've also included a means to kill Jack when swapping back to Alsa Dmix
 # This can be changed to jackdbus depending on which version of Jack you are using
